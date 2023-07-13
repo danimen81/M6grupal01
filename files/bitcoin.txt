@@ -1,0 +1,6 @@
+
+ A la fecha: 2023-07-13T02:10:31.157Z
+    Fue realizada la cotizacion de los siguientes datos
+    Cantidad de pesos a convertir: 34000000 pesos
+    Convertido a un valor del "bitcoin" a 30214.55, 
+    da un total de: $1125.285665349972"bitcoin"

@@ -30,10 +30,12 @@ async function leer() {
     Fue realizada la cotizacion de los siguientes datos
     Cantidad de pesos a convertir: ${cantidad} pesos
     Convertido a un valor del "${indicadorEconomico}" a ${valorDolar}, 
-    da un total de: $${cantidad / valorDolar}\n`;
+    da un total de: $${cantidad / valorDolar}"${indicadorEconomico}"\n`;
         path += nombrearchivo + extensionArchivo
     archivo.appendFileSync(path, mensaje);
     archivo.readFileSync(path);
+    console.log(mensaje);
+    
 
         
 

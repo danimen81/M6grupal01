@@ -7,3 +7,27 @@ Chao Mundo!
     Cantidad de pesos a convertir: 400000 pesos
     Convertido a un valor del "dolar" a 816.78, 
     da un total de: $489.72795612037515
+
+ A la fecha: 2023-07-13T01:58:33.754Z
+    Fue realizada la cotizacion de los siguientes datos
+    Cantidad de pesos a convertir: 500000 pesos
+    Convertido a un valor del "dolar" a 816.78, 
+    da un total de: $612.159945150469
+
+ A la fecha: 2023-07-13T01:59:51.617Z
+    Fue realizada la cotizacion de los siguientes datos
+    Cantidad de pesos a convertir: 560000 pesos
+    Convertido a un valor del "dolar" a 816.78, 
+    da un total de: $685.6191385685252
+
+ A la fecha: 2023-07-13T02:01:03.709Z
+    Fue realizada la cotizacion de los siguientes datos
+    Cantidad de pesos a convertir: 1000000 pesos
+    Convertido a un valor del "dolar" a 816.78, 
+    da un total de: $1224.319890300938
+
+ A la fecha: 2023-07-13T02:04:48.256Z
+    Fue realizada la cotizacion de los siguientes datos
+    Cantidad de pesos a convertir: 2500000 pesos
+    Convertido a un valor del "uf" a 36093.31, 
+    da un total de: $69.26491363634979

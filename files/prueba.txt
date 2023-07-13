@@ -1,0 +1,6 @@
+
+ A la fecha: 2023-07-13T02:12:38.340Z
+    Fue realizada la cotizacion de los siguientes datos
+    Cantidad de pesos a convertir: 400000 pesos
+    Convertido a un valor del "dolar" a 816.78, 
+    da un total de: $489.72795612037515"dolar"
