@@ -1,0 +1,6 @@
+
+ A la fecha: 2023-07-13T01:41:42.715Z
+    Fue realizada la cotizacion de los siguientes datos
+    Cantidad de pesos a convertir: 300000 pesos
+    Convertido a "dolar" da un total de: 
+    $367.29596709028135

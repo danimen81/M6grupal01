@@ -2,3 +2,8 @@ hola mundo
 Hola Mundo!
 Chao Mundo!Hola Mundo!
 Chao Mundo!
+ A la fecha: 2023-07-13T01:48:43.954Z
+    Fue realizada la cotizacion de los siguientes datos
+    Cantidad de pesos a convertir: 400000 pesos
+    Convertido a un valor del "dolar" a 816.78, 
+    da un total de: $489.72795612037515
