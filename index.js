@@ -1,5 +1,5 @@
 const archivo = require("fs");
-const path = "./files/";
+let path = "./files/";
 let prompt = require('prompt-sync')();
   //  archivo.appendFileSync(path, "Hola Mundo!\n");
    // archivo.appendFileSync(path, "Chao Mundo!");
@@ -31,7 +31,7 @@ async function leer() {
     Cantidad de pesos a convertir: ${cantidad} pesos
     Convertido a "${indicadorEconomico}" da un total de: 
     $${cantidad * valorDolar}`;
-        path += nombreArchivo + extensionArchivo
+        path += nombrearchivo + extensionArchivo
     archivo.appendFileSync(path, mensaje);
 
         
